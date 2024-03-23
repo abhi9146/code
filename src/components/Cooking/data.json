@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "ingredients": "Spaghetti, Eggs, Bacon, Parmesan Cheese, Black Pepper",
+        "instructions": "1. Cook spaghetti according to package instructions. 2. In a bowl, whisk together eggs, grated Parmesan cheese, and black pepper. 3. In a pan, cook bacon until crispy. 4. Combine cooked spaghetti with the egg mixture and cooked bacon. Serve hot.",
+        "image": "https://www.simplyrecipes.com/thmb/hnXzf6O6tyafYUDrMkK8RqkEEB4=/1500x1000/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2004__04__spaghetti-carbonara-horiz-a-1600-8eabcc95eaa9483bafbf23eafd2e9da3.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "ingredients": "Chicken, Yogurt, Spices, Tomatoes, Cream",
+        "instructions": "1. Marinate chicken pieces in yogurt and spices. 2. Grill or bake the marinated chicken until cooked. 3. In a separate pan, sauté tomatoes and spices. 4. Add cream and cooked chicken to the tomato mixture. 5. Simmer until sauce thickens. Serve hot with rice or naan.",
+        "image": "https://www.cookingclassy.com/wp-content/uploads/2020/02/chicken-tikka-masala-5.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pad Thai",
+        "ingredients": "Rice Noodles, Shrimp, Tofu, Bean Sprouts, Eggs, Peanuts, Garlic, Shallots",
+        "instructions": "1. Soak rice noodles in warm water until softened. 2. Stir-fry garlic and shallots in a pan. 3. Add shrimp, tofu, and soaked rice noodles to the pan. 4. Push ingredients to one side, crack eggs into the pan, scramble, and mix with other ingredients. 5. Add bean sprouts and chopped peanuts. 6. Serve hot with lime wedges.",
+        "image": "https://www.onceuponachef.com/images/2020/08/Shrimp-Pad-Thai-760x510.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sushi Rolls",
+        "ingredients": "Sushi Rice, Nori Seaweed, Fish (e.g., Salmon, Tuna), Cucumber, Avocado, Sesame Seeds",
+        "instructions": "1. Place nori seaweed on a bamboo sushi mat. 2. Spread sushi rice evenly on the nori, leaving a small border at the top. 3. Arrange strips of fish, cucumber, and avocado along the bottom edge of the nori. 4. Roll the sushi tightly using the bamboo mat. 5. Slice into individual pieces and sprinkle with sesame seeds. Serve with soy sauce and pickled ginger.",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/how-to-make-sushi-rice-109c682.jpg?quality=90&resize=960%2C872"
+    },
+    {
+        "id": 5,
+        "name": "Mushroom Risotto",
+        "ingredients": "Arborio Rice, Mushrooms, Onion, Garlic, White Wine, Parmesan Cheese, Vegetable Broth",
+        "instructions": "1. Sauté chopped onions and garlic in olive oil. 2. Add sliced mushrooms and cook until golden brown. 3. Stir in Arborio rice and cook until translucent. 4. Deglaze the pan with white wine and cook until absorbed. 5. Gradually add vegetable broth, stirring frequently until rice is creamy and cooked. 6. Finish with grated Parmesan cheese. Serve hot.",
+        "image": "https://cookieandkate.com/images/2016/10/best-wild-mushroom-risotto-recipe-3-768x1152.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Hummus Plate",
+        "ingredients": "Chickpeas, Tahini, Lemon Juice, Garlic, Olive Oil, Paprika, Cumin",
+        "instructions": "1. Blend chickpeas, tahini, lemon juice, garlic, and olive oil in a food processor until smooth. 2. Season with salt, paprika, and cumin to taste. 3. Transfer to a serving plate, drizzle with olive oil, and sprinkle with paprika. Serve with pita bread and vegetables.",
+        "image": "https://www.inspiredtaste.net/wp-content/uploads/2021/04/Homemade-Hummus-Recipe-1200.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Tofu Stir Fry",
+        "ingredients": "Tofu, Bell Peppers, Broccoli, Carrots, Soy Sauce, Garlic, Ginger",
+        "instructions": "1. Press tofu to remove excess moisture, then cut into cubes. 2. Stir-fry tofu in a pan until golden brown. 3. Add chopped vegetables, garlic, and ginger to the pan. 4. Cook until vegetables are tender-crisp. 5. Add soy sauce and toss to combine. Serve hot with rice or noodles.",
+        "image": "https://cookieandkate.com/images/2021/02/best-tofu-stir-fry-recipe-1-768x1152.jpg"
+    }
+]
